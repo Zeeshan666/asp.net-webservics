@@ -1,0 +1,9 @@
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\_data\Documents\Visual Studio 2013\Projects\WebSite2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
